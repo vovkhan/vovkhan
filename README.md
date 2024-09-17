@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vovkhan
 - 👀 I’m interested in Python/Bash scripts
-- 🌱 I’m currently learning HTML+CSS
+- 🌱 I’m currently learning Python/C/Bash...
 <!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
+<!-- - 📫 How to reach me ... 
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: me like old games
 
